@@ -1,0 +1,9 @@
+# Remove www subdomain
+https://www.maximevast.com/* https://maximevast.com/:splat 301!
+https://www.maximevast.fr/* https://maximevast.fr/:splat 301!
+https://www.vastmaxi.me/* https://vastmaxi.me/:splat 301!
+https://www.maximeva.st/* https://maximeva.st/:splat 301!
+
+# Redirect default Netlify subdomain to primary domain
+http://agitated-wing-04b0c3.netlify.com/* https://maximevast.com/:splat 301!
+https://agitated-wing-04b0c3.netlify.com/* https://maximevast.com/:splat 301!
