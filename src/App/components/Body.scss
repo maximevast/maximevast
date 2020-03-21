@@ -1,0 +1,7 @@
+@import "../mixins/colors.scss";
+
+.mainbody {
+    background-color: white;
+    border: 1px solid $secondary-color;
+    padding: 24px;
+}

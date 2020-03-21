@@ -1,0 +1,7 @@
+@import "../mixins/colors.scss";
+
+.card {
+    background-color: $primary-color;
+    box-shadow: -4px 7px 15px 1px rgba(0,0,0,.2);
+    padding: 24px;
+}
