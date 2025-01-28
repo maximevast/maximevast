@@ -10,7 +10,7 @@
 
 I am a French 🇫🇷  Software Engineer from **O**xford **B**rookes **U**niversity 🇬🇧
 
-- 🚑  Working as a Full Stack Developer at [Ambler](https://www.crunchbase.com/organization/ambler), helping match the supply and demand of medical transports
+- 🚑  Working as a Product Engineer at [Inato](https://www.crunchbase.com/organization/inato), helping bring clinical research to each and every patient
 
 - ⛷  Skiing in winter
 
